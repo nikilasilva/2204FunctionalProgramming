@@ -1,0 +1,4 @@
+[debug] [activity01-test] Classpath dependencies List()
+[debug] [activity01-test] Dependencies from configurations List(activity01)
+[debug] Bloop wrote the configuration of project 'activity01-test' to 'C:\Users\ACER\AppData\Local\Temp\activity01\.bloop\activity01-test.json'
+[success] Generated .bloop\activity01-test.json

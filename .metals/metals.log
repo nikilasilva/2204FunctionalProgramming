@@ -42,3 +42,19 @@ INFO: Unsupported notification method: $/setTrace
 2024.06.17 18:17:55 INFO  Shut down connection with build server.
 2024.06.17 18:17:55 INFO  Shut down connection with build server.
 2024.06.17 18:17:55 INFO  Exiting server
+2024.06.17 18:20:05 INFO  Started: Metals version 1.3.1 in folders 'C:\Users\ACER\AppData\Local\Temp\activity01' for client Visual Studio Code 1.90.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4396f4d7]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@46f01791]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4396f4d7]
+2024.06.17 18:20:05 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.17 18:20:07 INFO  no build target found for C:\Users\ACER\AppData\Local\Temp\activity01\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.17 18:20:07 INFO  Attempting to connect to the build server...
+2024.06.17 18:20:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ACER\AppData\Local\Temp\activity01\.metals\bsp.trace.json or C:\Users\ACER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.17 18:20:07 INFO  Attempting to connect to the build server...
+2024.06.17 18:20:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\ACER\AppData\Local\Temp\activity01\project\.metals\bsp.trace.json or C:\Users\ACER\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.17 18:20:07 INFO  time: Connected to build server in 0.72s
+2024.06.17 18:20:07 INFO  Connected to Build server: Bloop v1.5.17
+2024.06.17 18:20:08 INFO  time: Imported build in 0.15s
+2024.06.17 18:20:25 INFO  time: indexed workspace in 16s
